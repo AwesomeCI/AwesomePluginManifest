@@ -1,0 +1,19 @@
+{
+    "name" : "AwesomeCI Official Plugins",
+    "source" : "https://github.com/AwesomeCI/AwesomePlugins",
+    "plugins" : [
+        {
+            "name" : "Awesome Github Pull Request Builder",
+            "npm" : "awesome-ghprb",
+            "requires" : [
+                "awesome-github"
+            ],
+            "author" : "Ryan Copley"
+        },
+        {
+            "name" : "Awesome Github",
+            "npm" : "awesome-github",
+            "author" : "Ryan Copley"
+        }
+    ]
+}
