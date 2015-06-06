@@ -5,7 +5,7 @@
         {
             "name" : "Awesome Github Webhook Builder",
             "description" : "Start AwesomeCI Jobs based on GitHub's WebHook API",
-            "npm" : "awesome-ghwh",
+            "npm" : "awesome-github-webhooks",
             "requires" : [
                 "awesome-github"
             ],
